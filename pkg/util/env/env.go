@@ -25,6 +25,7 @@ import (
 )
 
 const (
+	GithubID              = "Freedisch"
 	NodeNameEnvKey        = "NODE_NAME"
 	podNameEnvKey         = "POD_NAME"
 	podNamespaceEnvKey    = "POD_NAMESPACE"
